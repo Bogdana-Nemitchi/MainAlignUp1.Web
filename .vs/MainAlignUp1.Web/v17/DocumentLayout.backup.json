@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334EFDA7-143B-42A2-B871-237A470D7FE3}|MainAlignUp1.Web\\MainAlignUp1.Web.csproj|D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\mainalignup1.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334EFDA7-143B-42A2-B871-237A470D7FE3}|MainAlignUp1.Web\\MainAlignUp1.Web.csproj|solutionrelative:mainalignup1.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334EFDA7-143B-42A2-B871-237A470D7FE3}|MainAlignUp1.Web\\MainAlignUp1.Web.csproj|d:\\bogdana\\laptop_vechi_stick\\utm\\anul_2\\sem_2\\tweb\\mainalignup1.web\\mainalignup1.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{334EFDA7-143B-42A2-B871-237A470D7FE3}|MainAlignUp1.Web\\MainAlignUp1.Web.csproj|solutionrelative:mainalignup1.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334EFDA7-143B-42A2-B871-237A470D7FE3}|MainAlignUp1.Web\\MainAlignUp1.Web.csproj|D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\mainalignup1.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334EFDA7-143B-42A2-B871-237A470D7FE3}|MainAlignUp1.Web\\MainAlignUp1.Web.csproj|solutionrelative:mainalignup1.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334EFDA7-143B-42A2-B871-237A470D7FE3}|MainAlignUp1.Web\\MainAlignUp1.Web.csproj|D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\mainalignup1.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334EFDA7-143B-42A2-B871-237A470D7FE3}|MainAlignUp1.Web\\MainAlignUp1.Web.csproj|solutionrelative:mainalignup1.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334EFDA7-143B-42A2-B871-237A470D7FE3}|MainAlignUp1.Web\\MainAlignUp1.Web.csproj|D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\mainalignup1.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334EFDA7-143B-42A2-B871-237A470D7FE3}|MainAlignUp1.Web\\MainAlignUp1.Web.csproj|solutionrelative:mainalignup1.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\MainAlignUp1.Web\\Content\\Site.css",
+              "RelativeDocumentMoniker": "MainAlignUp1.Web\\Content\\Site.css",
+              "ToolTip": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\MainAlignUp1.Web\\Content\\Site.css",
+              "RelativeToolTip": "MainAlignUp1.Web\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-01T11:31:15.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\MainAlignUp1.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MainAlignUp1.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\MainAlignUp1.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MainAlignUp1.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T12:12:37.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\MainAlignUp1.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MainAlignUp1.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\MainAlignUp1.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MainAlignUp1.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T12:11:46.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\MainAlignUp1.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MainAlignUp1.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\MainAlignUp1.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MainAlignUp1.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:02:51.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\MainAlignUp1.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MainAlignUp1.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Bogdana\\laptop_vechi_stick\\UTM\\Anul_2\\Sem_2\\TWeb\\MainAlignUp1.Web\\MainAlignUp1.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MainAlignUp1.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T12:02:23.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
